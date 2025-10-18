@@ -1,4 +1,4 @@
-# Board Calculator App for Onyi's Interior Design
+# Board Cut Price Calculator App
 
 A simple, offline calculator app for quickly determining the price of board portions based on dimensions.
 
